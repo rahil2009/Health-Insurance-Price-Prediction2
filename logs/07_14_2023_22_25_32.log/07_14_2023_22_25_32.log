@@ -1,0 +1,7 @@
+[2023-07-14 22:25:34,337] 187 werkzeug - WARNING -  * Debugger is active!.
+[2023-07-14 22:25:34,353] 187 werkzeug - INFO -  * Debugger PIN: 137-343-316.
+[2023-07-14 22:25:37,959] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:25:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -.
+[2023-07-14 22:25:38,017] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:25:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -.
+[2023-07-14 22:25:38,023] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:25:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -.
+[2023-07-14 22:25:38,044] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:25:38] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -.
+[2023-07-14 22:31:35,290] 187 werkzeug - INFO -  * Detected change in 'h:\\projects under local ides\\insurance\\application.py', reloading.

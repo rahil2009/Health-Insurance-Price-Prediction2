@@ -1,0 +1,4 @@
+[2023-07-14 18:56:26,503] 30 root - INFO - Data Ingestion has been started..
+[2023-07-14 18:56:26,693] 36 root - INFO - Data has been read..
+[2023-07-14 18:56:26,867] 42 root - INFO - Train_Test_Split.
+[2023-07-14 18:56:27,094] 51 root - INFO - Ingestion of Data has been completed.

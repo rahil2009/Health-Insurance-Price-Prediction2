@@ -1,0 +1,14 @@
+[2023-07-14 23:16:31,622] 187 werkzeug - WARNING -  * Debugger is active!.
+[2023-07-14 23:16:31,628] 187 werkzeug - INFO -  * Debugger PIN: 137-343-316.
+[2023-07-14 23:16:35,098] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:16:35,327] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:16:35] "POST /predict HTTP/1.1" 200 -.
+[2023-07-14 23:17:20,354] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:17:20,385] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:17:20] "POST /predict HTTP/1.1" 200 -.
+[2023-07-14 23:17:26,627] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:17:26,646] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:17:26] "POST /predict HTTP/1.1" 200 -.
+[2023-07-14 23:18:27,163] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:18:27] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:18:34,590] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:18:34,620] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:18:34] "POST /predict HTTP/1.1" 200 -.
+[2023-07-14 23:19:28,083] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:19:28] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:19:36,750] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:19:36,776] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:19:36] "POST /predict HTTP/1.1" 200 -.

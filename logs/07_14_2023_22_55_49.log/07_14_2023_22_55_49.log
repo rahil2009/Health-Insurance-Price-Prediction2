@@ -1,0 +1,24 @@
+[2023-07-14 22:55:51,357] 187 werkzeug - WARNING -  * Debugger is active!.
+[2023-07-14 22:55:51,363] 187 werkzeug - INFO -  * Debugger PIN: 137-343-316.
+[2023-07-14 22:55:55,281] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:55:55] "GET / HTTP/1.1" 200 -.
+[2023-07-14 22:56:02,579] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:56:02] "GET / HTTP/1.1" 200 -.
+[2023-07-14 22:56:54,432] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:56:54] "GET / HTTP/1.1" 200 -.
+[2023-07-14 22:57:25,276] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:57:25] "GET / HTTP/1.1" 200 -.
+[2023-07-14 22:57:45,890] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:57:45] "GET / HTTP/1.1" 200 -.
+[2023-07-14 22:58:56,477] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 22:58:56] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:00:21,187] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:00:21] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:00:50,642] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:00:50] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:01:29,831] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:01:29] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:05:08,091] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:05:08] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:05:20,873] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:05:20] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:05:34,114] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:05:34] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:06:02,810] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:06:03,041] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:06:03] "POST /predict HTTP/1.1" 200 -.
+[2023-07-14 23:08:40,193] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:40] "GET / HTTP/1.1" 200 -.
+[2023-07-14 23:08:58,400] 59 root - INFO - Dataframe Gathered.
+[2023-07-14 23:08:58,558] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -.
+[2023-07-14 23:08:58,674] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -.
+[2023-07-14 23:08:58,676] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -.
+[2023-07-14 23:08:58,817] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -.
+[2023-07-14 23:08:58,855] 187 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2023 23:08:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -.
+[2023-07-14 23:09:17,193] 187 werkzeug - INFO -  * Detected change in 'H:\\projects under local IDEs\\Insurance\\application.py', reloading.

@@ -1,0 +1,28 @@
+[2023-07-14 19:21:02,387] 30 root - INFO - Data Ingestion has been started..
+[2023-07-14 19:21:02,400] 36 root - INFO - Data has been read..
+[2023-07-14 19:21:02,413] 42 root - INFO - Train_Test_Split.
+[2023-07-14 19:21:02,430] 51 root - INFO - Ingestion of Data has been completed.
+[2023-07-14 19:21:02,444] 60 root - INFO - reading train and test data is completed..
+[2023-07-14 19:21:02,452] 61 root - INFO - Train DataFrame Head: 
+    age     sex   bmi  children smoker     region  expenses
+0   24    male  23.7         0     no  northwest   2352.97
+1   28  female  26.5         2     no  southeast   4340.44
+2   51    male  39.7         1     no  southwest   9391.35
+3   47    male  36.1         1    yes  southeast  42211.14
+4   46  female  28.9         2     no  southwest   8823.28.
+[2023-07-14 19:21:02,457] 62 root - INFO - Test DataFrame Head: 
+    age     sex   bmi  children smoker     region  expenses
+0   45  female  25.2         2     no  northeast   9095.07
+1   36  female  30.0         0     no  northwest   5272.18
+2   64  female  26.9         0    yes  northwest  29330.98
+3   46    male  25.7         3     no  northwest   9301.89
+4   19    male  31.9         0    yes  northwest  33750.29.
+[2023-07-14 19:21:02,458] 65 root - INFO - Concatenating Train and test csvs.
+[2023-07-14 19:21:02,458] 29 root - INFO - Getting data transsformation obj Initiated..
+[2023-07-14 19:21:02,503] 87 root - INFO - Obtaining preprocessing object.
+[2023-07-14 19:21:02,504] 89 root - INFO - Applying preprocessing object on training and testing datasets..
+[2023-07-14 19:21:02,504] 118 root - INFO - Applying preprocessing object on training and testing datasets..
+[2023-07-14 19:21:02,505] 130 root - INFO - All sort of transformation has been done..
+[2023-07-14 19:21:02,506] 28 root - INFO - Splitting dataset into the dependent and independent feautes.
+[2023-07-14 19:21:11,659] 51 root - INFO - MOdel_Report : {'Linear_Reg': 0.7668958783864168, 'DTree': 0.7354965526852941, 'RForest': 0.8518376475863361, 'RForest1': 0.8525196417467921, 'ETree': 0.8390859095040859, 'GradientBoosting': 0.863750613777146}.
+[2023-07-14 19:21:11,660] 63 root - INFO - Best Model Found , Model Name : GradientBoosting , R2 Score : 0.863750613777146.
