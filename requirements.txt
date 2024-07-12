@@ -5,4 +5,4 @@ matplotlib #It is a Plotting Library
 Flask
 seaborn #Seaborn is a Python data visualization library based on matplotlib.
 scikit-learn
--e .
+gunicorn
