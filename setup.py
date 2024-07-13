@@ -20,8 +20,8 @@ def get_requirements(source_path:str) -> List[str]:
 setup(
     name = 'Insurance Premium Prediction',
     version = '0.1',
-    author='Aqleem Khan',
-    author_email='aqleemkhan408@gmail.com',
+    author='Rahil',
+    author_email='saiyed.rahil2009.sr@gmail.com',
     install_requirements = get_requirements('requirements.txt'),
     packages = find_packages()
 )
