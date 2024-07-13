@@ -4,5 +4,5 @@ numpy  #NumPy is a general-purpose array-processing package.
 matplotlib #It is a Plotting Library
 Flask
 seaborn #Seaborn is a Python data visualization library based on matplotlib.
-scikit-learn==1.3.0
+scikit-learn
 gunicorn
